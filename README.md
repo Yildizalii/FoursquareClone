@@ -4,11 +4,11 @@
 </p>
 
 <p align="center">
-<img src="/SignIn/Up.png"  width="200"/>
-<img src="/Alert.png="200"/>
-<img src="/TableViewVC.png" width="200"/>
-<img src="/map.png" width="200"/>
+<img src="/TableViewVC.png"  width="200"/>
+<img src="/DetailsVC.png" width="200"/>
 <img src="/UploadVC.png" width="200"/>
+<img src="/SignIn/Up.png" width="200"/>
+<img src="/Alert.png" width="200"/>
 
 </p>
 
